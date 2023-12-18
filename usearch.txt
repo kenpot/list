@@ -1,4 +1,8 @@
 
+
+*://dtioykqj1u8de.cloudfront.net/*
+
+
 *://*.3rd-in.co.jp/*
 *://jocee.jp/*
 *://*.jocee.jp/*
@@ -12,6 +16,7 @@
 *://matomedane.jp/*
 *://matomehub.jp/*
 
-*://dtioykqj1u8de.cloudfront.net/*
+*://tweetsoku.com/*
 
 *://itakon.jp/*
+
