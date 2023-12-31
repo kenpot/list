@@ -23,7 +23,7 @@
 *://*.soratobuiruka.com/*
 *://hatenani.com/*
 *://famfamblog.com/*
-
+*://kokiriko.com/*
 
 
 
