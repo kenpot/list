@@ -20,6 +20,9 @@
 
 *://itakon.jp/*
 
+*://*.soratobuiruka.com/*
+*://hatenani.com/*
+*://famfamblog.com/*
 
 
 
