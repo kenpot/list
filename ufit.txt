@@ -44,7 +44,9 @@
 ||fxtec.info^
 
 ||mnsatlas.com^
-0
+
+||gamezuki2022.click^
+
 
 ! 2023/12/29
 ! 2024/05/07
